@@ -42,3 +42,4 @@ Crédito: What is the Fundamental plane for Elliptical Galaxies?
 - [The WISE Extended Source Catalog (WXSC). I. The 100 Largest Galaxies](https://iopscience.iop.org/article/10.3847/1538-4365/ab521a)
 -  [Galaxies - Basic Catalogs and Data Collections ](https://pages.astronomy.ua.edu/keel/galaxies/catalogs.html)
 - [Central velocity dispersion catalog of LAMOST-DR7 galaxies](https://arxiv.org/abs/2007.07823)
+- Cool images: [ATLAS OF PECULIAR GALAXIES](http://ned.ipac.caltech.edu/level5/Arp/frames.html)
